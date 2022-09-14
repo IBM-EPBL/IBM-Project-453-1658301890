@@ -1,4 +1,4 @@
-﻿Name,Quantity,Component
+﻿name,Quantity,Component
 U1,1, Arduino Uno R3
 PIR1,1,"-17.358178557221777 , -247.4289412888927 , -197.15541335786304 , -230.71302788180571  PIR Sensor"
 SERVO1,1,Positional Micro Servo
